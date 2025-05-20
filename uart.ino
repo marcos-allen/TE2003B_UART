@@ -1,9 +1,3 @@
-/*
- Analog input reads an analog input on analog in 0, prints the value out.
- created 24 March 2006
- by Tom Igoe
- */
- 
 void setup() {
   // open the serial port at 9600 bps:
   Serial.begin(9600);
