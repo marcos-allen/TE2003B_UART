@@ -6,5 +6,4 @@ print(s.name)
 while (True):
 	x = s.readline().decode('utf-8')
 	print(x, end="")
-	#time.sleep(5)
 s.close()
